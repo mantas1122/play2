@@ -1,7 +1,9 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Fetch from "isomorphic-unfetch";
 import Layout from "../components/Layout";
 
 import Prices from "../components/Prices";
+import data1 from '../samples/channelVids.json';
 
 const Index = props => (
   <Layout>
@@ -15,7 +17,7 @@ const Index = props => (
 
 Index.getInitialProps = async function() {
   // const res = await fetch('https://api.coindesk.com/v1/bpi/currentprice.json');
-  const dkey = "AIzaSyCgYKXEBHLkcp5K3ep2Ue9G4GJHWerThVQ";
+  /*const dkey = "AIzaSyCgYKXEBHLkcp5K3ep2Ue9G4GJHWerThVQ";
   const channelId = "UCCBVCTuk6uJrN3iFV_3vurg";
   const res = await fetch(
     "https://www.googleapis.com/youtube/v3/search?" +
@@ -24,11 +26,13 @@ Index.getInitialProps = async function() {
       "&channelId=" +
       channelId +
       "&part=snippet,id&order=date&maxResults=20"
-  );
-  const data = await res.json();
+  );*/
+ // const res = await fetch('../samples/channelVids.json');
+
+  //const data = await res.json();
 
   return {
-    bpi: data
+    bpi: data1
   };
 };
 
