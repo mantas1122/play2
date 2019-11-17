@@ -1,9 +1,8 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Fetch from "isomorphic-unfetch";
 import Layout from "../components/Layout";
 
 import Prices from "../components/Prices";
-import data1 from '../samples/channelVids.json';
+import data1 from "../samples/channelVids.json";
 
 const Index = props => (
   <Layout>
@@ -27,7 +26,7 @@ Index.getInitialProps = async function() {
       channelId +
       "&part=snippet,id&order=date&maxResults=20"
   );*/
- // const res = await fetch('../samples/channelVids.json');
+  // const res = await fetch('../samples/channelVids.json');
 
   //const data = await res.json();
 
