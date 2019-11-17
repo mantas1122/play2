@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+import { Card, CardTitle, CardBody, CardText } from "reactstrap"; 
 
 class Prices extends React.Component {
   state = {
