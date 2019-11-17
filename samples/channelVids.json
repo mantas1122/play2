@@ -1,672 +1,672 @@
-  {
+{
   "kind": "youtube#searchListResponse",
-  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9NlP3U3t2gPPB8mNbQENx8CInbY\"",
+  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6GParTPaGPVX8mT0krXAenUJnks\"",
   "nextPageToken": "CBQQAA",
   "regionCode": "LT",
   "pageInfo": {
-   "totalResults": 16427,
-   "resultsPerPage": 20
+    "totalResults": 13577,
+    "resultsPerPage": 20
   },
   "items": [
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/71puXCAl24tXeu77L6nkyjUpNFM\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "r3f9nUw5I0g"
-    },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:57:56.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Complex event flows in distributed systems by Bernd Rücker",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/r3f9nUw5I0g/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/saTrsOqwtTBqya405uUjulqQmTA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jrbWIS7BH70"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/r3f9nUw5I0g/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/r3f9nUw5I0g/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-15T16:11:51.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze",
+        "description": "This presentation was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl Allard Buijze - Creator of Axon Framework ABSTRACT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jrbWIS7BH70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jrbWIS7BH70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jrbWIS7BH70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/H-r9sPQiEk2zhnwhfvLeNYPq0OM\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "788atwbYKyk"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:50:44.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Speedy build for your java application images with JIB! by Mohammed Aboullaite",
-     "description": "TOOLS-IN-ACTION voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/788atwbYKyk/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jyxkYEObcpqA7ZWV32SVIZwXs54\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LirtRu7jqJU"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/788atwbYKyk/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/788atwbYKyk/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-15T10:40:44.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2018 • Interview with Patrick Kua about the Role of Tech Leads",
+        "description": "This interview was recorded at GOTO Berlin 2018. #GOTOcon #GOTOber http://gotober.com Patrick Kua - O'Reilly Author and CTO of mobile bank N26 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LirtRu7jqJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LirtRu7jqJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LirtRu7jqJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aorjM56hvcdnG-lxGXObH6rEyNU\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "ZTgf8HZoH4E"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:46:54.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Looking back on migrating 30 microservices to a monorepository by Darya Talanina",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/ZTgf8HZoH4E/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_hHJfEHteoNAR1t_xuJRlDJ8QvU\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WMv9glJuoGc"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/ZTgf8HZoH4E/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/ZTgf8HZoH4E/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T15:57:18.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • The Importance of Laughter • Aino Vonge Corry",
+        "description": "This presentation was recorded at GOTO Berlin 2019. #GOTOcon #GOTOber http://gotober.com Aino Vonge Corry - Retrospectives Facilitator, Teacher ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WMv9glJuoGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WMv9glJuoGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WMv9glJuoGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jjbqwWZk2zJxjfS0Z-R2r-rLXho\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "WswzrC8EB6Y"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:36:59.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Monitoring in the Microservices world: Kubernetes vs Serverless based applications by Avishai Shafir",
-     "description": "CONFERENCE Monitoring in the Microservices world: Kubernetes Vs. Serverless based applications by Avishai Shafir voxxeddays.com/microservices ✉️ To ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/WswzrC8EB6Y/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GH-syeVnDYfWtviynlh04NrH_lM\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7uvK4WInq6k"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/WswzrC8EB6Y/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/WswzrC8EB6Y/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T15:06:53.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • 3 Common Pitfalls in Microservice Integration &amp; How to Avoid Them • Bernd Rücker",
+        "description": "This presentation was recorded at GOTO Berlin 2019. #GOTOcon #GOTOber http://gotober.com Bernd Rücker - Co-founder and Chief Technologist of Camunda ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7uvK4WInq6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7uvK4WInq6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7uvK4WInq6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/S_Fk1fF65vlnc2UMtUR7cAN9Iqg\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "0sSy8ZTsW64"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:19:04.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Pact tests: how we split up the monolithic deploy by Phil Hardwick",
-     "description": "TOOLS-IN-ACTION voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/0sSy8ZTsW64/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WNOVeph6-a8E2HEhZczOiK1W4No\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I_VXMuPX864"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/0sSy8ZTsW64/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/0sSy8ZTsW64/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T13:33:46.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Troubleshooting Tiered Tragedy: A Peek Into Failure • Jeff Smith",
+        "description": "This presentation was recorded at GOTO Berlin 2019. #GOTOcon #GOTOber http://gotober.com Jeff Smith - Author of \"All Things Dork\" Blog, Manager of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_VXMuPX864/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_VXMuPX864/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_VXMuPX864/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VEEpKfFzmD0shm4wCTmm8SMxlbA\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "arxm7llvDdg"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:11:16.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "The Evolution From Monolith to Microservices to Serverless and Beyond by Hugh Mckee",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/arxm7llvDdg/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FRSBd6rDlTQjxtVoGAfFYR4zOTc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CTs5-uqJMwk"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/arxm7llvDdg/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/arxm7llvDdg/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T11:37:15.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Copenhagen 2019 • Why Aren&#39;t You a Data-driven AI Company Yet? • Jan Bosch",
+        "description": "Join us live from GOTO Copenhagen! Traditional companies are struggling with the challenges associated with digitalization. Digitalization is concerned with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CTs5-uqJMwk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CTs5-uqJMwk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTs5-uqJMwk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "upcoming"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hh5G_HiFnYXeBV6oTz5b0N1F7gw\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "0Jnt_vwLIsk"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T08:11:41.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "How I Learned to Stop Worrying and Love the Monolith by Ania Wyrwinska",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/0Jnt_vwLIsk/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/57u4IXUibFQbKObKnLM4HJqQedE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O5KlP4z2OiQ"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/0Jnt_vwLIsk/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/0Jnt_vwLIsk/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T11:36:14.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Copenhagen 2019 • Quantum Computing • Jessica Pointing",
+        "description": "Join us live from GOTO Copenhagen! Solving certain types of problems can take billions of years on our current conventional computers. Quantum computers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5KlP4z2OiQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5KlP4z2OiQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5KlP4z2OiQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "upcoming"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b3wM4DgMqVlkXSCVt4YOPSsKOx0\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "m66zEpoKtLc"
     },
-    "snippet": {
-     "publishedAt": "2019-11-15T07:51:27.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Transforming a monolith to an API platform by Abderrazak Bouadma, Philippe Anes",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/m66zEpoKtLc/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fYW9xm3-Fo0VOgf9crUZnfvF_r0\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ztyEOqZ5-Ro"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/m66zEpoKtLc/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/m66zEpoKtLc/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T11:12:30.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Copenhagen 2019 • Composing Bach Chorales Using Deep Learning  • Feynmann Liang",
+        "description": "Join us live from GOTO Copenhagen! Can musical creativity, something believed to be deeply human, be codified into an algorithm? While most music theorists ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ztyEOqZ5-Ro/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ztyEOqZ5-Ro/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ztyEOqZ5-Ro/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "upcoming"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jgoxZCwqzRW2XjALULpMhSwpBRk\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "BU8Agc57gJI"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:53:11.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Responsible Microservices by Nate Schutta",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/BU8Agc57gJI/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/E8jVBgeRVJrEbvqXoHZ4vGB06gk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0sVzFzOXSPY"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/BU8Agc57gJI/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/BU8Agc57gJI/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T10:56:06.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Amsterdam 2019 Highlights",
+        "description": "This video was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl https://twitter.com/GOTOamst ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0sVzFzOXSPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0sVzFzOXSPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0sVzFzOXSPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/c4wjHdewOlIEgZLuuXroewuOQWw\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "d4D7jj_Ce-I"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:53:30.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Reacting to the future of application architecture by Grace Jansen",
-     "description": "CLOSING KEYNOTE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 #Callforpaper #tickets #Sponsoring or #Press.",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/d4D7jj_Ce-I/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UNrSNyAr7QA48sErrILoZFT308g\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dbMYPQSyhV0"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/d4D7jj_Ce-I/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/d4D7jj_Ce-I/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T10:57:31.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Berlin 2019 Highlights",
+        "description": "This video was recorded at GOTO Berlin 2019. #GOTOcon #GOTOber http://gotober.com https://twitter.com/GOTOber https://www.linkedin.com/company/goto- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dbMYPQSyhV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dbMYPQSyhV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dbMYPQSyhV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mjn2L_d6mjBjmqHI3CSSzBkTouY\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "I4jYAX7NDG8"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:46:30.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Subatomic, Supersonic, Reactive by Clément Escoffier",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/I4jYAX7NDG8/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6pgpd7Oq6Oa56tHQGz1RKmd-J2s\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uhb737Ik5PM"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/I4jYAX7NDG8/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/I4jYAX7NDG8/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T10:54:44.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Berlin 2018 Highlights",
+        "description": "This video was recorded at GOTO Berlin 2018. #GOTOcon #GOTOber http://gotober.com https://twitter.com/GOTOber https://www.linkedin.com/company/goto- ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uhb737Ik5PM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uhb737Ik5PM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uhb737Ik5PM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CCLrORHn8oKbGIter4cUCyAkJrc\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "5aqDh7WflxM"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:46:08.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "riffing on Kubernetes by Florent Biville",
-     "description": "TOOLS-IN-ACTION voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/5aqDh7WflxM/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MXc2jBr6VUZRG4yJAb1wNYb98TY\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jXceAaIr6mA"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/5aqDh7WflxM/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/5aqDh7WflxM/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-14T10:51:15.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Amsterdam 2018 Highlights",
+        "description": "This video was recorded at GOTO Amsterdam 2018. #GOTOcon #GOTOams http://gotoams.nl https://twitter.com/GOTOamst ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jXceAaIr6mA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jXceAaIr6mA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jXceAaIr6mA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6zeqZYiDq356QQqYyIfcGNTggL8\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "gdY4OAKb-I4"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:42:43.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Building a platform to integrate serverless and on-premise services by Marcos Almeida",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/gdY4OAKb-I4/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/7v8UkI3HGckp8BfdJl0N15RFp-4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1f_P8ZH5BC8"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/gdY4OAKb-I4/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/gdY4OAKb-I4/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-13T10:52:17.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Building Evolutionary Infrastructure • Kief Morris",
+        "description": "This presentation was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl Kief Morris - Author of O'Reilly's \"Infrastructure as Code\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1f_P8ZH5BC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1f_P8ZH5BC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1f_P8ZH5BC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Bc172S9APCXSJ7o3QmwCLILbgUI\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "ZDDZCyTFaak"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:38:07.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "An introduction to Apache Kafka - this is Event Streaming, not just Messaging by Katherine Stanley",
-     "description": "BYTE SIZE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/ZDDZCyTFaak/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8fUjq_m37lvdrgDolKyph7VQ32A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GuzfeVvWes0"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/ZDDZCyTFaak/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/ZDDZCyTFaak/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-13T09:59:48.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO Conferences • Legends of Software",
+        "description": "Kristen Nygaard, Bjarne Stroustrup, Mary Shaw, James Gosling, Yukihiro Matsumoto. These are the innovators who created the building blocks for modern apps ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuzfeVvWes0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuzfeVvWes0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuzfeVvWes0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/c2hXplEXx7hE9xXv2sfyxk0gjTE\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "xp4siUTDdlU"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:37:51.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Think-ing big, think-ing diverse, Think-ing forward by Grace Jansen",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/xp4siUTDdlU/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1A41nFCsAdPiYBjWN71I_Kpur2I\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BByWWTdNI0Y"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/xp4siUTDdlU/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/xp4siUTDdlU/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-12T09:57:23.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • On the Road to Artificial General Intelligence • Danny Lange",
+        "description": "This presentation was recorded at GOTO Chicago 2019. #GOTOcon #GOTOchgo http://gotochgo.com Danny Lange - VP of AI and ML at Unity Technologies and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BByWWTdNI0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BByWWTdNI0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BByWWTdNI0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fQkR8rDvMB2i_q7pD4LPDErZFwQ\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "PusBGdjgd3U"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:37:41.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Event Sourcing - You are doing it wrong by David Schmitz",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/PusBGdjgd3U/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n2XOBXR5gyH51OZYOmQxpB1m14c\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ss1tZjooo9I"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/PusBGdjgd3U/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/PusBGdjgd3U/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-08T16:16:12.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck",
+        "description": "This presentation was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl Philippe De Ryck - Founder of Pragmatic Web Security, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ss1tZjooo9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ss1tZjooo9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ss1tZjooo9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ilCpzflq46Svt0fLi-_R3Liv2qk\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "ptgw9rXt6-U"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:32:32.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Micro Frontend: the microservice puzzle extended to frontend by Audrey Neveu",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/ptgw9rXt6-U/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nfFY1a2FyJpLvMl2jL8IcT-biqk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eyvrtU4dYgM"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/ptgw9rXt6-U/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/ptgw9rXt6-U/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-07T13:16:51.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • All The World’s A Staging Server • Heidi Waterhouse",
+        "description": "This presentation was recorded at GOTO Chicago 2019. #GOTOcon #GOTOchgo http://gotochgo.com Heidi Waterhouse - Developer Advocate at LaunchDarkly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eyvrtU4dYgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eyvrtU4dYgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyvrtU4dYgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W8kKtUbS1ajIk04MmzfqDODRJSU\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "QHSuO922zOU"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:31:37.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Deploying Spring Boot microservices on Azure by Julien Dubois",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/QHSuO922zOU/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hWt2cnkLLEnb95FSsrAQYkvsBSc\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ovRt6O7q1rA"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/QHSuO922zOU/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/QHSuO922zOU/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-06T10:46:21.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Serverless: Five Key Things you need to Know • Gojko Adzic",
+        "description": "This presentation was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl Gojko Adzic - Creator of Claudia.js & Award-winning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ovRt6O7q1rA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ovRt6O7q1rA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ovRt6O7q1rA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kMZqKtHmWG13e1_JRjKspFoMk8M\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "tdd8w9d_d-c"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T23:13:11.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Event-Driven Microservices, the Sense, the Non-sense and a Way Forward by Allard Buijze",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/tdd8w9d_d-c/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TrKivfZNSZoINdRlStGM2imB0Q8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bQpJ6h3RRCc"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/tdd8w9d_d-c/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/tdd8w9d_d-c/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-11-01T14:21:02.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Conversation AI, the new User Experience • Priyanka Vergadia",
+        "description": "This presentation was recorded at GOTO Amsterdam 2019. #GOTOcon #GOTOams http://gotoams.nl Priyanka Vergadia - AI and ML Strategist at Google ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bQpJ6h3RRCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bQpJ6h3RRCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bQpJ6h3RRCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
-    }
-   },
-   {
-    "kind": "youtube#searchResult",
-    "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/C5ps5rj-h8q0xSsrPLy9Xftz42A\"",
-    "id": {
-     "kind": "youtube#video",
-     "videoId": "wtx4HqWeRqM"
     },
-    "snippet": {
-     "publishedAt": "2019-11-14T22:54:52.000Z",
-     "channelId": "UCCBVCTuk6uJrN3iFV_3vurg",
-     "title": "Supercharge product development with cloud best practices by Sebastien Stormacq",
-     "description": "CONFERENCE voxxeddays.com/microservices ✉️ To receive informations: http://eepurl.com/dvCYC5 (Callforpaper/tickets/Sponsoring/Press) #Conference ...",
-     "thumbnails": {
-      "default": {
-       "url": "https://i.ytimg.com/vi/wtx4HqWeRqM/default.jpg",
-       "width": 120,
-       "height": 90
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/G7T2GeDpOasf2rb7ZqOWx318M1A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "siHsyULIZ5o"
       },
-      "medium": {
-       "url": "https://i.ytimg.com/vi/wtx4HqWeRqM/mqdefault.jpg",
-       "width": 320,
-       "height": 180
-      },
-      "high": {
-       "url": "https://i.ytimg.com/vi/wtx4HqWeRqM/hqdefault.jpg",
-       "width": 480,
-       "height": 360
+      "snippet": {
+        "publishedAt": "2019-10-31T16:29:43.000Z",
+        "channelId": "UCs_tLP3AiwYKwdUHpltJPuA",
+        "title": "GOTO 2019 • Why You Need a Software Delivery Machine • Rod Johnson",
+        "description": "This presentation was recorded at GOTO Chicago 2019. #GOTOcon #GOTOchgo http://gotochgo.com Rod Johnson - Creator of Spring and Co-founder and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/siHsyULIZ5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/siHsyULIZ5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/siHsyULIZ5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOTO Conferences",
+        "liveBroadcastContent": "none"
       }
-     },
-     "channelTitle": "Devoxx",
-     "liveBroadcastContent": "none"
     }
-   }
   ]
- }
+}

@@ -7,8 +7,9 @@ import data1 from "../samples/channelVids.json";
 const Index = props => (
   <Layout>
     <div>
-      <h1>Welcome to BitzPrice ddd</h1>
-      <p>Check current Bitcoin rate</p>
+      <h1>Dev Talks</h1>
+      <p>best by week | 1 month | 3 month | 6 month | 1 year | 3 year | 6 year
+      </p>
       <Prices bpi={props.bpi} />
     </div>
   </Layout>
